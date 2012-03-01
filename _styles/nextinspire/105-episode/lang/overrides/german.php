@@ -28,7 +28,7 @@ $_LANG["text_community_desc"] = "Find answer or discuss with the community";
 
 #--- Page Titles ---
 
-$_LANG["text_clientarea"] = "Client Area";
+$_LANG["text_clientarea"] = "Kunden Bereich";
 $_LANG["text_salescenter"] = "Sales Center";
 $_LANG["text_domainchecker"] = "Domain Checker";
 $_LANG["text_affiliates"] = "Affiliates";
@@ -99,32 +99,32 @@ $_LANG["text_refundpolicy"] = "Our Refund Policy";
 $_LANG["text_programdetails"] = "Program Details";
 $_LANG["text_howitwork"] = "How it Work";
 
-$_LANG["text_continue"] = "Continue";
-$_LANG["text_save"] = "Save";
-$_LANG["text_cancel"] = "Cancel";
+$_LANG["text_continue"] = "Weiter";
+$_LANG["text_save"] = "Speichern";
+$_LANG["text_cancel"] = "Abbruch";
 $_LANG["text_reset"] = "Reset";
-$_LANG["text_delete"] = "Delete";
+$_LANG["text_delete"] = "Löschen";
 $_LANG["text_submit"] = "Submit";
-$_LANG["text_search"] = "Search";
-$_LANG["text_ordernow"] = "Order Now";
-$_LANG["text_back"] = "Back";
+$_LANG["text_search"] = "Suche";
+$_LANG["text_ordernow"] = "Jetzt Bestellen";
+$_LANG["text_back"] = "Zurück";
 $_LANG["text_select"] = "Please Select";
-$_LANG["text_close"] = "Close";
+$_LANG["text_close"] = "Schliessen";
 
 $_LANG["text_datepublished"] = "Date Published";
-$_LANG["text_registernotallow2"] = "You are registered already";
+$_LANG["text_registernotallow2"] = "Sie sind bereits registriert";
 $_LANG["text_registernotallow1"] = "Sorry! Register without purchase is not allowed.";
 $_LANG["text_affiliatesinfo"] = "Affiliates Account Statistics";
 $_LANG["text_affiliatescommissionstats"] = "Realtime Commission Statistics";
-$_LANG["text_paymentinfo"] = "Payment Infomation";
+$_LANG["text_paymentinfo"] = "Zahlungs Infomation";
 $_LANG["text_serverlogindetails"] = "Server Login Details";
 
 #--- Checkout Process ---
 
-$_LANG["text_checkoutsetp1"] = "Select Package";
-$_LANG["text_checkoutsetp2"] = "Domain Options";
-$_LANG["text_checkoutsetp3"] = "Configuration";
-$_LANG["text_checkoutsetp4"] = "Comfirm Order";
-$_LANG["text_checkoutsetp5"] = "Completed !";
+$_LANG["text_checkoutsetp1"] = "Paket auswählen";
+$_LANG["text_checkoutsetp2"] = "Domain Optionen";
+$_LANG["text_checkoutsetp3"] = "Konfiguration";
+$_LANG["text_checkoutsetp4"] = "Bestellung bestätigen";
+$_LANG["text_checkoutsetp5"] = "Fertig !";
 
 ?>
