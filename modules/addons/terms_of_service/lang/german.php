@@ -25,8 +25,8 @@ $_ADDONLANG['licensekey']                  = "Lizenz Key";
 $_ADDONLANG['licenseinformation']          = "Lizenz Information";
 $_ADDONLANG['registeredto']                = "Registriert auf";
 $_ADDONLANG['licensetype']                 = "Lizenz Typ";
-$_ADDONLANG['validdomain']                 = "G�ltige Domain";
-$_ADDONLANG['validip']                     = "G�ltige IP";
+$_ADDONLANG['validdomain']                 = "Gültige Domain";
+$_ADDONLANG['validip']                     = "Gültige IP";
 $_ADDONLANG['created']                     = "Erstellt";
 $_ADDONLANG['licensereissued']             = "If you are planning to move your Addons Module to a new location then you will need to get your license reissued.";
 $_ADDONLANG['licenseerror']                = "Sorry but you don't have the right to use this addon model.<br />You can purchase a new license from us just follow the link below.";
@@ -39,6 +39,6 @@ $_ADDONLANG['licenseclickhere']            = "Hier klicken";
 ## Client Area Language
 
 ## v1.5
-$_LANG['ttermsofservice']                  = "Allgemeine Gesch�ftsbedingungen";
+$_LANG['ttermsofservice']                  = "Allgemeine Geschäftsbedingungen";
 
 ?>
