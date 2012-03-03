@@ -1,7 +1,7 @@
 <?php
 ## v1.5
 $_ADDONLANG['menu']                        = "Menu";
-$_ADDONLANG['termsofservice']              = "Allgeimeine Geschäftsbedingungen";
+$_ADDONLANG['termsofservice']              = "Allgemeine Geschäftsbedingungen";
 $_ADDONLANG['addnew']                      = "Neue Hinzufügen";
 $_ADDONLANG['savechanges']                 = "Änderungen Speichern";
 $_ADDONLANG['multilingualtranslations']    = "Multi-Lingual Translations";
@@ -10,15 +10,15 @@ $_ADDONLANG['sortorderinfo']               = "Enter a number here to override th
 $_ADDONLANG['hidden']                      = "Versteckt";
 $_ADDONLANG['title']                       = "Titel";
 $_ADDONLANG['success']                     = "Änderungen erfolgreich gespeichert!";
-$_ADDONLANG['changessavedsuccessfully']    = "The changes you made have been saved successfully";
-$_ADDONLANG['deletethis']                  = "Are You Sure You Want To Delete This Term.";
+$_ADDONLANG['changessavedsuccessfully']    = "Ihre gemachten Änderungen wurden erfolgreich gespeichert";
+$_ADDONLANG['deletethis']                  = "Sind Sie sicher, das sie diese Regel löschen wollen?";
 $_ADDONLANG['yes']                         = "Ja";
 $_ADDONLANG['no']                          = "Nein";
-$_ADDONLANG['contents']                    = "Contents";
+$_ADDONLANG['contents']                    = "Inhalte";
 $_ADDONLANG['edit']                        = "Bearbeiten";
 $_ADDONLANG['menu']                        = "Menu";
 $_ADDONLANG['delete']                      = "Löschen";
-$_ADDONLANG['norecordsfound']              = "No Records Found";
+$_ADDONLANG['norecordsfound']              = "Keine Einträge gefunden";
 $_ADDONLANG['version']                     = "Version";
 $_ADDONLANG['modulesupport']               = "Modul Support";
 $_ADDONLANG['licensekey']                  = "Lizenz Key";
