@@ -1,4 +1,4 @@
-<?
+<?php
 $_ADMINLANG['global']['hometitle'] = "Adminbereich";
 $_ADMINLANG['global']['searchfilter'] = "Suche/Filter";
 $_ADMINLANG['global']['search'] = "Suche";
@@ -336,7 +336,7 @@ $_ADMINLANG['addons']['name'] = "Name";
 $_ADMINLANG['addons']['addnew'] = "Neues AddOn hinzufügen";
 $_ADMINLANG['addons']['closewindow'] = "Fenster schließen";
 $_ADMINLANG['addons']['editaddon'] = "AddOn bearbeiten";
-$_ADMINLANG['addons']['predefinedaddon'] = "Vordifinierte Add-Ons";
+$_ADMINLANG['addons']['predefinedaddon'] = "Vordefinierte Add-Ons";
 $_ADMINLANG['addons']['usedefault'] = "Standard benutzen";
 $_ADMINLANG['addons']['customname'] = "Freier Name";
 $_ADMINLANG['addons']['taxaddon'] = "AddOn Steuer";
