@@ -37,54 +37,54 @@ $_LANG["text_knowledgebase"] = "Knowledgebase";
 $_LANG["text_downloads"] = "Downloads";
 $_LANG["text_tutorials"] = "Flash Tutorials";
 $_LANG["text_serverstatus"] = "Server Status";
-$_LANG["text_networkissues"] = "Network Issues";
+$_LANG["text_networkissues"] = "Netzwerk Probleme";
 $_LANG["text_supporttickets"] = "Support Tickets";
 $_LANG["text_submitticket"] = "Submit Ticket";
 $_LANG["text_community"] = "Community";
 $_LANG["text_pwreset"] = "Reset Password";
-$_LANG["text_register"] = "Register";
+$_LANG["text_register"] = "Registrierung";
 
 #--- Custom Pages Titles---
 
-$_LANG["text_tos"] = "Terms of Services";
+$_LANG["text_tos"] = "Allgemeine Geschäftsbedingungen";
 $_LANG["text_sla"] = "Service Level Agreenment";
 $_LANG["text_aup"] = "Acceptable Usage Policy";
 $_LANG["text_privacy"] = "Privacy Statement";
-$_LANG["text_infrastructure"] = "Infrastructure";
-$_LANG["text_aboutus"] = "About Us";
+$_LANG["text_infrastructure"] = "Infrastruktur";
+$_LANG["text_aboutus"] = "Über Uns";
 
 #--- Template Strings ---
 
 $_LANG["text_hometitle"] = "Home";
-$_LANG["text_oursolutions"] = "Our Solutions";
+$_LANG["text_oursolutions"] = "Unsere Lösungen";
 $_LANG["text_supportcenter"] = "Support Center";
-$_LANG["text_myaccount"] = "My Account";
-$_LANG["text_ourcompany"] = "Our Company";
+$_LANG["text_myaccount"] = "Mein Account";
+$_LANG["text_ourcompany"] = "Unsere Firma";
 $_LANG["text_legalinfo"] = "Legal Info";
-$_LANG["text_contactus"] = "Contact Us";
+$_LANG["text_contactus"] = "Kontakt zu Uns";
 $_LANG["text_latestnews"] = "Corporate News";
-$_LANG["text_mydashboard"] = "My Dashboard";
-$_LANG["text_mydetails"] = "My Details";
-$_LANG["text_myservices"] = "My Services";
-$_LANG["text_mydomains"] = "My Domains";
-$_LANG["text_myinvoice"] = "My Invoices";
-$_LANG["text_mytickets"] = "My Support Tickets";
-$_LANG["text_myemail"] = "My Emails";
+$_LANG["text_mydashboard"] = "Mein Dashboard";
+$_LANG["text_mydetails"] = "Meine Details";
+$_LANG["text_myservices"] = "Meine Dienste";
+$_LANG["text_mydomains"] = "Meine Domains";
+$_LANG["text_myinvoice"] = "Meine Rechnungen";
+$_LANG["text_mytickets"] = "Meine Support Tickets";
+$_LANG["text_myemail"] = "Meine Emails";
 
-$_LANG["text_productscount"] = "Products / Services";
+$_LANG["text_productscount"] = "Produkte / Dienste";
 $_LANG["text_domainscount"] = "Domain Names";
 $_LANG["text_ticketscount"] = "Support Tickets";
 
-$_LANG["text_viewcart"] = "Shopping Cart";
+$_LANG["text_viewcart"] = "Warenkorb";
 $_LANG["text_checkdomain"] = "Check Domains Availability";
 $_LANG["text_viewallextensions"] = "View all extensions";
 $_LANG["text_learnmore"] = "Learn more...";
 
-$_LANG["ii_goodmorning"] = "Good Morning";
-$_LANG["ii_goodafternoon"] = "Good Afternoon";
-$_LANG["ii_goodevening"] = "Good Evening";
+$_LANG["ii_goodmorning"] = "Guten Morgen";
+$_LANG["ii_goodafternoon"] = "Guten Mittag";
+$_LANG["ii_goodevening"] = "Guten Abend";
 
-$_LANG["text_lastlogin"] = "Your Last Login";
+$_LANG["text_lastlogin"] = "Ihr letzter Login";
 $_LANG["text_usagestats"] = "Usage Statistics";
 $_LANG["text_contactinfo"] = "Contact Information";
 $_LANG["text_secretquestion"] = "Secret Question";
@@ -103,17 +103,17 @@ $_LANG["text_continue"] = "Weiter";
 $_LANG["text_save"] = "Speichern";
 $_LANG["text_cancel"] = "Abbruch";
 $_LANG["text_reset"] = "Reset";
-$_LANG["text_delete"] = "L�schen";
-$_LANG["text_submit"] = "Submit";
+$_LANG["text_delete"] = "Löschen";
+$_LANG["text_submit"] = "Absenden";
 $_LANG["text_search"] = "Suche";
 $_LANG["text_ordernow"] = "Jetzt Bestellen";
-$_LANG["text_back"] = "Zur�ck";
-$_LANG["text_select"] = "Please Select";
+$_LANG["text_back"] = "Zurück";
+$_LANG["text_select"] = "Bitte auswählen";
 $_LANG["text_close"] = "Schliessen";
 
 $_LANG["text_datepublished"] = "Date Published";
 $_LANG["text_registernotallow2"] = "Sie sind bereits registriert";
-$_LANG["text_registernotallow1"] = "Sorry! Register without purchase is not allowed.";
+$_LANG["text_registernotallow1"] = "Entschuldigung. Registrierungen OHNE Kauf sind nicht erlaubt!";
 $_LANG["text_affiliatesinfo"] = "Affiliates Account Statistics";
 $_LANG["text_affiliatescommissionstats"] = "Realtime Commission Statistics";
 $_LANG["text_paymentinfo"] = "Zahlungs Infomation";
@@ -121,10 +121,10 @@ $_LANG["text_serverlogindetails"] = "Server Login Details";
 
 #--- Checkout Process ---
 
-$_LANG["text_checkoutsetp1"] = "Paket ausw�hlen";
+$_LANG["text_checkoutsetp1"] = "Paket auswählen";
 $_LANG["text_checkoutsetp2"] = "Domain Optionen";
 $_LANG["text_checkoutsetp3"] = "Konfiguration";
-$_LANG["text_checkoutsetp4"] = "Bestellung best�tigen";
+$_LANG["text_checkoutsetp4"] = "Bestellung bestätigen";
 $_LANG["text_checkoutsetp5"] = "Fertig !";
 
 ?>
