@@ -2,9 +2,9 @@
 
 #--- Slogan ---
 
-$_LANG["text_slogan_mainpage"] = "<h1>Welcome to <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your Online Business</h1>";
+$_LANG["text_slogan_mainpage"] = "<h1>Willkommen auf <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your Online Business</h1>";
 $_LANG["text_slogan_support"] = '<h1>Support Center</h1><h2>Slogans are definable in language files</h2><br/><a href="sample.php" class="more">learn more...</a>';
-$_LANG["text_slogan_clientarea"] = '<h1>Client Area</h1><h2>Slogans are definable in language files</h2><br/><a href="sample.php" class="more">learn more...</a>';
+$_LANG["text_slogan_clientarea"] = '<h1>Kundenbereich</h1><h2>Slogans are definable in language files</h2><br/><a href="sample.php" class="more">learn more...</a>';
 $_LANG["text_slogan_order"] = '<h1>Our Solutions</h1><h2>Slogans are definable in language files</h2><br/><a href="sample.php" class="more">learn more...</a>';
 $_LANG["text_slogan_affiliates"] = '<h1>Affiliates</h1><h2>Slogans are definable in language files</h2><br/><a href="sample.php" class="more">learn more...</a>';
 $_LANG["text_slogan_company"] = '<h1>Our Company</h1><h2>Slogans are definable in language files</h2><br/><a href="sample.php" class="more">learn more...</a>';
