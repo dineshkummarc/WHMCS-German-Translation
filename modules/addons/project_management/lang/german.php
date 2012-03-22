@@ -1,0 +1,187 @@
+<?php
+/*
+******************************************
+ WHMCS - Project Management Addon
+ Last Updated: 22th March 2012
+ Language File: German
+ Version: 1.1
+******************************************
+*/
+
+# Client Area
+
+$_ADDONLANG['projectsoverview'] = "Projektübersicht";
+$_ADDONLANG['projectsoverviewdesc'] = "Überprüfen Sie den Status Ihrer Projekte hier bei uns";
+$_ADDONLANG['projectdetails'] = "Projekt-Details";
+$_ADDONLANG['title'] = "Titel";
+$_ADDONLANG['created'] = "Startdatum";
+$_ADDONLANG['duedate'] = "Enddatum";
+$_ADDONLANG['status'] = "Status";
+$_ADDONLANG['lastmodified'] = "letzte Änderung";
+$_ADDONLANG['assignedto'] = "zugeteilt an";
+$_ADDONLANG['totaltime'] = "Gesamtzeit";
+$_ADDONLANG['tasks'] = "Aufgaben";
+$_ADDONLANG['taskdetail'] = "Aufgabendetails";
+$_ADDONLANG['inprogress'] = "in Bearbeitung";
+$_ADDONLANG['completed'] = "Fertiggestellt";
+$_ADDONLANG['starttime'] = "Startzeit";
+$_ADDONLANG['stoptime'] = "Endzeit";
+$_ADDONLANG['duration'] = "Dauer";
+$_ADDONLANG['hours'] = "Stunden";
+$_ADDONLANG['addtask'] = "Aufgabe hinzufügen";
+$_ADDONLANG['add'] = "hinzufügen";
+$_ADDONLANG['total'] = "Gesamt";
+$_ADDONLANG['associatedtickets'] = "zugehörige Tickets";
+$_ADDONLANG['associatedinvoices'] = "zugehörige Rechnungen";
+$_ADDONLANG['timetracking'] = "Zeiterfassung";
+$_ADDONLANG['showhidetimelogs'] = "Detailierte Zeiterfassung anzeigen/verbergen";
+$_ADDONLANG['fileuploads'] = "Dateien/Uploads";
+$_ADDONLANG['upload'] = "Upload";
+$_ADDONLANG['addfile'] = "Datei hinzufügen";
+$_ADDONLANG['none'] = "keine Einträge";
+$_ADDONLANG['projectguidance'] = "Wenn Sie uns im Bezug auf diese Projekt kontaktieren möchten, tun Sie diese bitte über eines der oben gelisteten Tickets, oder erstellen Sie <a href=\"submitticket.php\">hier</a> ein neues.";
+
+# Admin Area
+
+$_ADDONLANG['stdhourlyrate'] = "Stundensatz";
+$_ADDONLANG['stdhourlyratedesc'] = "Standard-Stundensatz wird bei der Generierung Rechnungen verwendet";
+$_ADDONLANG['createdproject'] = "Projekt erstellen";
+$_ADDONLANG['create'] = "ok";
+$_ADDONLANG['cancel'] = "exit";
+$_ADDONLANG['date'] = "Datum";
+$_ADDONLANG['daysleft'] = "Verbleibende Tage";
+$_ADDONLANG['projectname'] = "Projekt Name";
+$_ADDONLANG['taskname'] = "Aufgabenname";
+$_ADDONLANG['projectprogress'] = "Fortschritt";
+$_ADDONLANG['ticketnumberhash'] = "Ticket #";
+$_ADDONLANG['invoicenumberhash'] = "Rechnung #";
+$_ADDONLANG['home'] = "Home";
+$_ADDONLANG['viewreports'] = "Berichte anzeigen";
+$_ADDONLANG['viewstafflogs'] = "Mitarbeiter-Protokolle";
+$_ADDONLANG['viewactivitylogs'] = "Aktivitätsprotokolle";
+$_ADDONLANG['settings'] = "Einstellungen";
+$_ADDONLANG['help'] = "Hilfe";
+$_ADDONLANG['createnewproject'] = "neues Projekt";
+$_ADDONLANG['browseprojects'] = "Projekte";
+$_ADDONLANG['browsetasks'] = "Aufgaben";
+$_ADDONLANG['incomplete'] = "unvollständig";
+$_ADDONLANG['myincomplete'] = "meine unvollständigen";
+$_ADDONLANG['viewall'] = "alle";
+$_ADDONLANG['assignedtome'] = "mir zugeteilt";
+$_ADDONLANG['duein7days'] = "in 7 Tagen endent";
+$_ADDONLANG['closed'] = "geschlossen";
+$_ADDONLANG['search'] = "suche...";
+$_ADDONLANG['due'] = "seit";
+$_ADDONLANG['duein'] = "endet in";
+$_ADDONLANG['days'] = "Tagen";
+$_ADDONLANG['daysago'] = "Tagen überfällig";
+$_ADDONLANG['tasknotes'] = "Notizen";
+$_ADDONLANG['notasks'] = "Keine Aufgaben vorhanden";
+$_ADDONLANG['youmustenterticketnumber'] = "Bitte geben Sie eine Ticket-Nummer ein";
+$_ADDONLANG['ticketnumberenterednotfound'] = "Die eingegebene Ticket-Nummer konnte nicht gefunden werden";
+$_ADDONLANG['ticketnumberalreadyassociated'] = "Diese Ticket-Nummer ist bereits mit diesem Projekt verbunden";
+$_ADDONLANG['addedticketassociation'] = "Added Ticket Association to Ticket #";
+$_ADDONLANG['youmustenterinvoicenumber'] = "Bitte geben Sie eine Rechnungs-Nummer ein";
+$_ADDONLANG['invoicenumberenterednotfound'] = "Die eingegebene Rechnungs-Nummer konnte nicht gefunden werden";
+$_ADDONLANG['invoicenumberalreadyassociated'] = "Diese Rechnungs-Nummer ist bereits mit diesem Projekt verbunden";
+$_ADDONLANG['addedinvoiceassociation'] = "Added invoice Association to invoice #";
+$_ADDONLANG['newmsgposted'] = "Neue Nachricht geschrieben";
+$_ADDONLANG['startedtimerfortask'] = "Started Timer für Aufgabe ";
+$_ADDONLANG['stoppedtimerfortask'] = "Beendet Timer für Aufgabe ";
+$_ADDONLANG['startedtimerat'] = "gestartet um ";
+$_ADDONLANG['stoppedtimerat'] = "beendet um ";
+$_ADDONLANG['addedtask'] = "Aufgabe hinzugefügt ";
+$_ADDONLANG['tracktime'] = "Track Time";
+$_ADDONLANG['deletedtask'] = "gelöschte Aufgabe";
+$_ADDONLANG['deletedticketrelationship'] = "gelöschte Ticket Beziehungp #";
+$_ADDONLANG['titlechangedfrom'] = "Titel geändert von ";
+$_ADDONLANG['assignedclientchangedfrom'] = "zugeordneten Kunde geändert von ";
+$_ADDONLANG['assignedadminchangedfrom'] = "zugewiesen Admin geändert von ";
+$_ADDONLANG['creationdatechangedfrom'] = "Erstellungsdatum geändert von ";
+$_ADDONLANG['duedatechangedfrom'] = "Fälligkeitsdatum geändert von ";
+$_ADDONLANG['addednewrelatedticket'] = "Verwandte Ticket neu hinzugefügt #";
+$_ADDONLANG['savenotes'] = "Notizen speichern";
+$_ADDONLANG['savechanges'] = "Änderungen speichern";
+$_ADDONLANG['savenotesfailed'] = "Notizen speichern fehlgeschlagen. Bitte versuchen Sie es erneut!";
+$_ADDONLANG['notesupdated'] = "Hinweise Aktualisiert";
+$_ADDONLANG['projectmarkedcompleted'] = "Projekt als erledigt markiert";
+$_ADDONLANG['updatedproject'] = "Aktualisiert Projekt: ";
+$_ADDONLANG['statuschangedfrom'] = "Status geändert von ";
+$_ADDONLANG['to'] = "zu";
+$_ADDONLANG['on'] = "an";
+$_ADDONLANG['addedattachment'] = "Anlage hinzugefügt";
+$_ADDONLANG['deletedproject'] = "gelöschtes Projekt";
+$_ADDONLANG['deletedattachment'] = "gelöschte Anlage";
+$_ADDONLANG['addedquickinvoice'] = "Hinzugefügt Quick-Rechnung - Rechnung ID:";
+$_ADDONLANG['description'] = "Beschreibung";
+$_ADDONLANG['rate'] = "Preis / Stunde";
+$_ADDONLANG['amount'] = "Betrag";
+$_ADDONLANG['generatenow'] = "Jetzt generieren";
+$_ADDONLANG['createdtimebasedinvoice'] = "Erstellen Zeitbasierte Rechnung - Rechnung ID:";
+$_ADDONLANG['viewingproject'] = "anzeigen von Projekt";
+$_ADDONLANG['projectidnotfound'] = "Projekt ID wurde nicht gefunden";
+$_ADDONLANG['newproject'] = "neues Projekt";
+$_ADDONLANG['noticketassociatepermissions'] = "Sie haben keine Berechtigung, um ein Ticket mit diesem Projekt zu verbinden";
+$_ADDONLANG['youmustbeanadmintodeletetask'] = "Sie müssen ein Admin sein, um diese Aufgabe zu löschen zu können";
+$_ADDONLANG['youmustbeanadmintodeletemsg'] = "Sie müssen ein Admin sein, um diese Nachricht zu löschen";
+$_ADDONLANG['youmustbeanadmintodeleteticket'] = "Sie müssen ein Admin sein , um dieses Ticket löschen zu können";
+$_ADDONLANG['confirmdeletetimer'] = "Sind Sie sicher, diesen Timer zu löschen?";
+$_ADDONLANG['confirmdeletetask'] = "Sind Sie sicher, diese Aufgabe zu löschen?";
+$_ADDONLANG['confirmdeletestaffmsg'] = "Sind Sie sicher, diese Nachricht zu löschen?";
+$_ADDONLANG['confirmdeleteattachment'] = "Sind Sie sicher, diesen Anhang zu löschen?";
+$_ADDONLANG['confirmdeleteproject'] = "Sind Sie sicher, dieses Projekt zu löschen?";
+$_ADDONLANG['edit'] = "bearbeiten";
+$_ADDONLANG['save'] = "speichern";
+$_ADDONLANG['savedas'] = "speicher als";
+$_ADDONLANG['saving'] = "speichern...";
+$_ADDONLANG['changessaved'] = "Änderungen erfolgreich gespeichert!";
+$_ADDONLANG['associatedclient'] = "zugehörigen Client";
+$_ADDONLANG['projecttasks'] = "Projektaufgaben";
+$_ADDONLANG['staff'] = "Mitarbeiter";
+$_ADDONLANG['start'] = "Start";
+$_ADDONLANG['stop'] = "Stop";
+$_ADDONLANG['endtimer'] = "End Timer";
+$_ADDONLANG['inprogress'] = "in Bearbeitung";
+$_ADDONLANG['time'] = "Zeit";
+$_ADDONLANG['updating'] = "aktualisiere...";
+$_ADDONLANG['newtask'] = "neue Aufgabe";
+$_ADDONLANG['validating'] = "überprüfen...";
+$_ADDONLANG['subject'] = "Subject";
+$_ADDONLANG['lastupdated'] = "Zuletzt aktualisiert";
+$_ADDONLANG['noassociatedticketsfound'] = "Keine dazugehörigen Tickets gefunden";
+$_ADDONLANG['noassociatedinvoicesfound'] = "Keine dazugehörigen Rechnungen gefunden";
+$_ADDONLANG['invoicedate'] = "Rechnungsdatum";
+$_ADDONLANG['datepaid'] = "Zahlungsdatum";
+$_ADDONLANG['paymentmethod'] = "Zahlungs-Methode";
+$_ADDONLANG['quickinvoice'] = "schnelle Rechnung";
+$_ADDONLANG['associateclienttousefeature'] = "Ordnen Sie einen Kunden zu, um diese Funktion nutzen zu";
+$_ADDONLANG['billfortasktimeentries'] = "Bill for Task Time Entries";
+$_ADDONLANG['preparing'] = "Preparing...";
+$_ADDONLANG['attachments'] = "Anhänge";
+$_ADDONLANG['noattachments'] = "Keine Anhänge Hochgeladen";
+$_ADDONLANG['upload'] = "Upload";
+$_ADDONLANG['staffmessageboard'] = "Mitarbeiter Message Board";
+$_ADDONLANG['addanother'] = "Ein weiteres hinzufügen";
+$_ADDONLANG['postedby'] = "Geschrieben von";
+$_ADDONLANG['nomessagespostedyet'] = "Keine Nachrichten gepostet";
+$_ADDONLANG['activitylog'] = "Aktivitätsprotokoll";
+$_ADDONLANG['logentry'] = "Log-Einträge";
+$_ADDONLANG['adminuser'] = "Admin User";
+$_ADDONLANG['editedtaskid'] = "Edited Task ID";
+$_ADDONLANG['editedadminfortimeid'] = "Edited Admin for Time ID - ";
+$_ADDONLANG['editedstarttimefortimeid'] = "Edited Start Time for Time ID - ";
+$_ADDONLANG['editedendtimefortimeid'] = "Edited End Time for Time ID - ";
+$_ADDONLANG['editingtask'] = "Editing Task";
+$_ADDONLANG['timespent'] = "Time Spent";
+$_ADDONLANG['notimesrecorded'] = "No Times Recorded Yet";
+$_ADDONLANG['generatenow'] = "Generate Now";
+$_ADDONLANG['generatenowandemail'] = "Generate Now and Send Invoice Created Email";
+$_ADDONLANG['load'] = "Load";
+$_ADDONLANG['backtoproject'] = "&laquo; Back to Project";
+$_ADDONLANG['loadtasklisttpl'] = "Load Task List Template";
+$_ADDONLANG['savetasklisttpl'] = "Save as Task List Template";
+$_ADDONLANG['tasklisttplname'] = "Name";
+$_ADDONLANG['tasklisttplsnone'] = "No Templates Exist";
+$_ADDONLANG['recentactivity'] = "Recent Activity";
+
+?>
