@@ -1,4 +1,4 @@
-<?
+<?php
 $_ADMINLANG['global']['hometitle'] = "Adminbereich";
 $_ADMINLANG['global']['searchfilter'] = "Suche/Filter";
 $_ADMINLANG['global']['search'] = "Suche";
