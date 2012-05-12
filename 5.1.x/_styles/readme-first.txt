@@ -1,0 +1,1 @@
+Dieses Verzeichnis beinhaltet nur Übersetzung zu Styles für WHMCS. Es MUSS NICHT auf den Webserver geladen werden !!!
